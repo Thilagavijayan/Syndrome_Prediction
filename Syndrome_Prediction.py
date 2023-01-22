@@ -191,7 +191,7 @@ def NaiveBayes():
 
 
 root = Tk()
-root.configure(background='Lightpink')
+root.configure(background='gray')
 root.title("Syndrome_Prediction")
 
 # entry variables
@@ -209,43 +209,43 @@ Name = StringVar()
 
 # Heading
 w2 = Label(root, justify=LEFT,
-           text="Syndrome Prediction", fg="white", bg="#A020F0")
+           text="Syndrome Prediction", fg="black", bg="Gray")
 w2.config(font=("Calibri", 30))
 w2.grid(row=1, column=0, columnspan=2, padx=100)
 
 # labels
-NameLb = Label(root, text="Name of the Patient", fg="white", bg="Lightpink")
+NameLb = Label(root, text="Name of the Patient", fg="black", bg="Gray")
 NameLb.grid(row=6, column=0, pady=15, sticky=W)
 
 
 S1Lb = Label(root, text="Symptom 1",
-             fg="white", bg="Lightpink")
+             fg="black", bg="Gray")
 S1Lb.grid(row=7, column=0, pady=10, sticky=W)
 
 S2Lb = Label(root, text="Symptom 2",
-             fg="white", bg="Lightpink")
+             fg="black", bg="Gray")
 S2Lb.grid(row=8, column=0, pady=10, sticky=W)
 
 S3Lb = Label(root, text="Symptom 3",
-             fg="white", bg="Lightpink")
+             fg="black", bg="Gray")
 S3Lb.grid(row=9, column=0, pady=10, sticky=W)
 
 S4Lb = Label(root, text="Symptom 4",
-             fg="white", bg="Lightpink")
+             fg="black", bg="Gray")
 S4Lb.grid(row=10, column=0, pady=10, sticky=W)
 
 S5Lb = Label(root, text="Symptom 5",
-             fg="white", bg="Lightpink")
+             fg="black", bg="Gray")
 S5Lb.grid(row=11, column=0, pady=10, sticky=W)
 
 
-lrLb = Label(root, text="Decision Tree:", fg="white", bg="darkBlue")
+lrLb = Label(root, text="Decision Tree:", fg="white", bg="#A020F0")
 lrLb.grid(row=15, column=0, pady=10, sticky=W)
 
 #destreeLb = Label(root, text="Random Forest:", fg="white", #bg="darkBlue")
 #destreeLb.grid(row=17, column=0, pady=10, sticky=W)
 
-ranfLb = Label(root, text="Naive Bayes:", fg="white", bg="darkBlue")
+ranfLb = Label(root, text="Naive Bayes:", fg="white", bg="#A020F0")
 ranfLb.grid(row=19, column=0, pady=10, sticky=W)
 
 # entries
@@ -293,3 +293,4 @@ t3 = Text(root, height=1, width=40, bg="white", fg="black")
 t3.grid(row=19, column=1, padx=10)
 
 root.mainloop()
+
