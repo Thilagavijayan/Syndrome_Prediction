@@ -6,8 +6,8 @@
 
 <div align="center">
 
-*Syndrome Prediction* It helps to predict the diseases through your symptoms.! 
-  Why? Because `It's over 9000!!!!!`.
+*Syndrome Prediction* Predict the diseases through your symptoms.! 
+  Why? Because `To aware of diseases`.
 
 [Getting started](#getting-started) • 
 [Build](#build) • [Test](#test) •
