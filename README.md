@@ -8,8 +8,17 @@
 
 *Syndrome Prediction* Predict the diseases through your symptoms.! 
   Why? Because `To aware of diseases`.
-
-[Getting started](#getting-started) • 
+  
+[Installation](#Installation)
+[Objective](#Objective) • 
 [Build](#build) • [Test](#test) •
 [Report a bug](https://github.com/)
 </div>
+## 1. Installation:
+
+To use this project, first clone the repo on your device using the command below:
+
+```git init```
+
+```git clone https://github.com/navendu-pottekkat/nsfw-filter.git```
+
