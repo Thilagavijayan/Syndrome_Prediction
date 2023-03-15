@@ -15,7 +15,7 @@
 [Report a bug](https://github.com/)
 </div>
 <div align = "left">
-##1. Installation:
+#1.Installation:
 
 To use this project, first clone the repo on your device using the command below:
 
