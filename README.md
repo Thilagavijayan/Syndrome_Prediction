@@ -3,6 +3,11 @@
      Syndrome Prediction
   </h3>
 </div>
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Thilagavijayan/Syndrome_Prediction?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/Thilagavijayan/Syndrome_Prediction)
+![GitHub issues](https://img.shields.io/github/issues-raw/Thilagavijayan/Syndrome_Prediction)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Thilagavijayan/Syndrome_Prediction)
+![GitHub](https://img.shields.io/github/license/Thilagavijayan/Syndrome_Prediction)
 
 <div align="center">
 
