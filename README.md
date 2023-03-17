@@ -1,4 +1,4 @@
-# Syndrome Prediction
+
 <div align="center">
   <h3 align="center">
     <h1><b> Syndrome Prediction </b></h1>
