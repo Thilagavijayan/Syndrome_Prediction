@@ -22,7 +22,7 @@
 [Report a bug](https://github.com/)
 </div>
 
-# 1.Installation:
+# Installation:
 
 To use this project, first clone the repo on your device using the command below:
 
