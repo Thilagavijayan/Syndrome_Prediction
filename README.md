@@ -1,9 +1,10 @@
 # Syndrome Prediction
-<!-- <div align="center">
+<div align="center">
   <h3 align="center">
-     # Syndrome Prediction
+    <h1><b> Syndrome Prediction </b></h1>
+
   </h3>
-</div> -->
+</div>
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Thilagavijayan/Syndrome_Prediction?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Thilagavijayan/Syndrome_Prediction)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Thilagavijayan/Syndrome_Prediction)
