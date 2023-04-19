@@ -17,11 +17,14 @@
 *Syndrome Prediction* Predict the diseases through your symptoms.! 
   Why? Because `To aware of diseases`.
   
+[Problem Statement](https://github.com/Thilagavijayan/Syndrome_Prediction/edit/main/README.md) •  
 [Installation](https://github.com/Thilagavijayan/Syndrome_Prediction/edit/main/README.md) • 
 [Objective](https://github.com/Thilagavijayan/Syndrome_Prediction/edit/main/README.md) • 
 [Screenshot](https://github.com/Thilagavijayan/Syndrome_Prediction/edit/main/README.md) • 
-[Report a bug](https://github.com/)
+[Demo](https://github.com/Thilagavijayan/Syndrome_Prediction/edit/main/README.md) • 
+[Presentation](https://github.com/Thilagavijayan/Syndrome_Prediction/edit/main/README.md) 
 </div>
+
 # Problem Statement
 Every year, Severe disorders claim the lives of around a million individuals, making this the major cause.
 One out of every three deaths is caused by Serious Conditions, and nearly half of them occur abruptly and without warning
@@ -47,7 +50,8 @@ To run the project using the command below:
 # Live Demo
 Refer the Link for this Demo
 [Click Here](https://youtu.be/PvbpBBzDv8U)
-Refer the Link for the Presentation
+
+# Presentation
 [Click Here](https://www.canva.com/design/DAFYWTwCtqE/vyJW3yz57EzsoWES6HKYOA/edit?utm_content=DAFYWTwCtqE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
