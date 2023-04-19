@@ -43,6 +43,7 @@ Syndrome Prediction is a system that predicts disease based on the user's inform
 
 # Youtube
 Refer the Link for this project
+
 ![Click Here](https://youtu.be/PvbpBBzDv8U)
 
 
