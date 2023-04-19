@@ -22,6 +22,12 @@
 [Screenshot](https://github.com/Thilagavijayan/Syndrome_Prediction/edit/main/README.md) • 
 [Report a bug](https://github.com/)
 </div>
+# Problem Statement
+Every year, Severe disorders claim the lives of around a million individuals, making this the major cause.
+One out of every three deaths is caused by Serious Conditions, and nearly half of them occur abruptly and without warning
+
+# Objective
+Syndrome Prediction is a system that predicts disease based on the user's information. It also anticipates the patient's or user's disease based on the information or symptoms entered into the system and offers reliable results based on that information.
 
 # Installation:
 
@@ -35,15 +41,15 @@ To run the project using the command below:
 
 ```python Syndrome_prediction.py```
 
-# Objective
-Syndrome Prediction is a system that predicts disease based on the user's information. It also anticipates the patient's or user's disease based on the information or symptoms entered into the system and offers reliable results based on that information.
-
 # Screenshot
 ![Screenshot](https://user-images.githubusercontent.com/106983063/230730832-306c8399-bf79-4a8a-8838-486c82b6b81a.jpeg)
 
-# Youtube
-Refer the Link for this project
+# Live Demo
+Refer the Link for this Demo
 [Click Here](https://youtu.be/PvbpBBzDv8U)
+Refer the Link for the Presentation
+[Click Here](https://www.canva.com/design/DAFYWTwCtqE/vyJW3yz57EzsoWES6HKYOA/edit?utm_content=DAFYWTwCtqE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 
